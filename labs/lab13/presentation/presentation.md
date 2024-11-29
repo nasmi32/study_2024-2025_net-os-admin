@@ -131,7 +131,7 @@ mount -o bind /var/www/ /srv/nfs/www/
 ```
 mkdir -p -m 700 ~/common
 cd ~/common
-touch eademidova@server.txt
+touch aamishina@server.txt
 ```
 ## Подключение каталогов для работы пользователей
 
