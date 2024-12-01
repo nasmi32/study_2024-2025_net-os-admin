@@ -51,7 +51,7 @@ dnf -y install samba samba-client cifs-utils
 
 ## Настройка сервера Samba
 
-![Просмотр подмонтированных удалённых ресурсов на клиенте](image/3.png){#fig:003 width=40%}
+![Запуск samba и просмотр статуса](image/3.png){#fig:003 width=40%}
 
 ## Настройка сервера Samba
 
@@ -59,7 +59,7 @@ dnf -y install samba samba-client cifs-utils
 
 ## Настройка сервера Samba
 
-![Просмотр задействованных при удалённом монтировании служб](image/5.png){#fig:005 width=70%}
+![Файл конфигурации межсетевого экрана для Samba](image/5.png){#fig:005 width=70%}
 
 ## Настройка сервера Samba
 
@@ -111,7 +111,7 @@ dnf -y install samba samba-client cifs-utils
 
 ## Монтирование файловой системы Samba на клиенте
 
-![Внесение содержимого в файл учётных данных](image/17.png){#fig:017 width=70%}
+![Внесение содержимого в файл smbusers](image/17.png){#fig:017 width=70%}
 
 ## Монтирование файловой системы Samba на клиенте
 
